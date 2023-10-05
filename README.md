@@ -2,7 +2,7 @@
 
 ## Power BI Dashboard
 ![image](https://github.com/nikitansg/Power-BI--Energy-/assets/138892560/d6f06b62-0dde-4919-b026-90b103d7726f)
-![image](https://github.com/nikitansg/Power-BI--Energy-/assets/138892560/7e20ab2f-a7f3-4903-868f-5b19678d17ff)
+
 
 ## Overview
 This project focuses on the analysis and prediction of India's energy requirements using Microsoft Power BI. The data is collected from the URL Electricity Sector in India and is connected to Power BI to create comprehensive reports and interactive dashboards. The primary goal is to provide real-time insights to an organization, making it easier for business users to understand the organization's energy consumption trends over time.
